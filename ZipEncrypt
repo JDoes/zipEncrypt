@@ -1,0 +1,7 @@
+# encrypt using zip utility
+
+# can use absolute path from any directory, or relative path, from parent directory of file or directory you'd like to encrypt
+
+# This example is from parent directory, containing item to be zipped and encrypted
+
+$ zip -re ./NewZippedName.zip ./CurrentName
